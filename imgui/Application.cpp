@@ -4,6 +4,8 @@
 
 #include "Application.h"
 #include "imgui/imgui.h"
+#include "classes/Log.h"
+
 
 //Include these for file writing. Based on tutorial from https://www.w3schools.com/cpp/cpp_files.asp 
 
@@ -31,7 +33,9 @@ namespace ClassGame {
                 // Close the file
                 //debugFile.close();
                 Log logFile;
-                logFile.writeToFile("fuc you");
+                logFile.writeToFile("\nLogging message to file");
+
+                //logFile.writeToFile("\n "); //write new message here 
 
                 std::cout << "\nwriting to file"; 
         }

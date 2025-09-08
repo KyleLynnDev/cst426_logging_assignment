@@ -315,6 +315,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui_tables.cpp" />
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui_widgets.cpp" />
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui.cpp" />
+    <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\classes\Log.cpp" />
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui_impl_dx11.cpp" />
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\main_win32.cpp" />
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui_impl_win32.cpp" />

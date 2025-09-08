@@ -19,6 +19,9 @@
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\classes\Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\lynni\Desktop\cst426\imgui\imgui\imgui_impl_dx11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

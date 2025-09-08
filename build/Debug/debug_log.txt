@@ -1,1 +1,5 @@
->Writing to the file...
+
+
+Logging message to file
+
+Logging message to file
