@@ -36,9 +36,10 @@ void Log::setLevel(logLevel Level){
 
 
 
-void Log::initialize(logLevel level, const std::string& file){
+void Log::initialize(logLevel level){ //, const std::string& file){
     
     //Could set more custom initial conditions here 
+    Log::setLevel(level);
     std::cout << "Logging Initialized" << std::endl;
 }
 

@@ -21,7 +21,7 @@ class Log {
         static void setLevel(logLevel);
 
         //set default console level?
-        static void initialize(logLevel currentLevel = INFO, const std::string& file = "debug_log.txt");
+        static void initialize(logLevel currentLevel = INFO); //, const std::string& file = "debug_log.txt");
              
         //main driver of system      
         static void log(logLevel lvl, const std::string& message); 

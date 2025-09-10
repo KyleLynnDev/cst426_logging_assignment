@@ -33,8 +33,9 @@ namespace ClassGame {
                 // Close the file
                 //debugFile.close();
                 Log logFile;
-                
                 logFile.writeToFile("\nLogging message to file");
+
+                Log::initialize(Log::WARNING);
 
                 Log::log(Log::INFO, "this is a message from the Gnome");
 
