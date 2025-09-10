@@ -3,3 +3,98 @@
 Logging message to file
 
 Logging message to file
+
+Logging message to file
+
+Logging message to file
+
+Logging message to file
+
+Logging message to file
+
+Logging message to file
+
+Logging message to file
+
+Logging message to file
+
+Logging message to file
+[INFO]this is a message
+
+Logging message to file
+[INFO]this is a message from the Gnome
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO]this is a message from the Gnome
+[INFO]The Gnome is biting and he won't stop ughhhhh
+[INFO]The Gnome is going to kill you
+
+Logging message to file
+[INFO] this is a message from the Gnome
+[WARNING] The Gnome is biting and he won't stop ughhhhh
+[ERROR] The Gnome is going to kill you
+
+Logging message to file
+[INFO] this is a message from the Gnome
+[WARNING] The Gnome is biting and he won't stop ughhhhh
+[ERROR] The Gnome is going to kill you

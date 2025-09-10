@@ -33,7 +33,24 @@ namespace ClassGame {
                 // Close the file
                 //debugFile.close();
                 Log logFile;
+                
                 logFile.writeToFile("\nLogging message to file");
+
+                Log::log(Log::INFO, "this is a message from the Gnome");
+
+                std::cout << Log::currentLevel;
+
+                Log::setLevel(Log::WARNING);
+
+                std::cout << Log::currentLevel;
+
+                Log::log(Log::WARNING, "The Gnome is biting and he won't stop ughhhhh");
+
+                Log::log(Log::ERROR, "The Gnome is going to kill you");
+
+                //Log::initialize(Log::WARNING);
+
+                //Log::log(Log::INFO, "hello this is an error");
 
                 //logFile.writeToFile("\n "); //write new message here 
 
@@ -68,6 +85,8 @@ namespace ClassGame {
                         counter++;
                 ImGui::SameLine();
                 ImGui::Text("counter = %d", counter);
+
+
 
                 ImGui::End();
         }
